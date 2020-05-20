@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587877601 source:c:\users\balaji\desktop\c prgrammes\calender\main.c
+	<stdio.h>
+	<stdlib.h>
+
